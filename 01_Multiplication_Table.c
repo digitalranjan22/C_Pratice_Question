@@ -1,4 +1,4 @@
-C Program to Generate Multiplication Table of a Given Number
+// C Program to Generate Multiplication Table of a Given Number
 #include<stdio.h>
 
 int main(){
